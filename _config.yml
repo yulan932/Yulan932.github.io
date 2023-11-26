@@ -1,11 +1,11 @@
 # Setup
-title: Not Pure Poole
-description: A simple, beautiful, and powerful Jekyll theme for blogs
-url: https://vszhub.github.io
-avatar: /avatar.jpeg
+title: Yulan
+description: 疯狂花生酱
+url: https://yulan932.github.io
+avatar: /zhimahu.png
 paginate: 5
 permalink: pretty
-cover_image: /bg.jpeg
+cover_image: /nuowei.jpg
 
 # Gems
 plugins:
