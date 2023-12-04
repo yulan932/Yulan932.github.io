@@ -10,3 +10,5 @@ date: 2023-11-26 22:56 +0800
 Statsmodels如何安装：
 
 **Win+R** 打开cmd小黑窗输入 **“pip install statsmodels”** 即可安装完成
+
+https://www.lfd.uci.edu/~gohlke/pythonlibs/#lxml
